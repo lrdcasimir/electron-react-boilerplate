@@ -206,6 +206,7 @@
     "yarn": "^1.9.2"
   },
   "dependencies": {
+    "@code-dot-org/blockly": "^3.1.0",
     "@fortawesome/fontawesome-free": "^5.2.0",
     "devtron": "^1.4.0",
     "electron-debug": "^2.0.0",

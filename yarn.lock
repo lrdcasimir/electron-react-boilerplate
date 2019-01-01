@@ -100,6 +100,10 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
+"@code-dot-org/blockly@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@code-dot-org/blockly/-/blockly-3.1.0.tgz#a38c2a2890adc558d949ea85998c731a7279b517"
+
 "@fortawesome/fontawesome-free@^5.2.0":
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-5.2.0.tgz#50cd9856774351c56c0b1b0db4efe122d7913e58"
